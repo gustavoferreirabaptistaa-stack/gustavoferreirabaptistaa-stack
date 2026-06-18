@@ -20,9 +20,6 @@ badge&logo-linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##
-<div> 
-![Snake animation] (https://github.com/gustavoferreirabaptistaa-stack/gustavoferreirabaptistaa-stack/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 </div>
 
