@@ -18,7 +18,9 @@
 <a href="https://www.linkedin.com/in/gustavo-ferreira-0655843bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-
 badge&logo-linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 ##
+
 ![Snake animation] (https://github.com/gustavoferreirabaptistaa-stack/gustavoferreirabaptistaa-stack/blob/output/github-contribution-grid-snake.svg)
 
 </div>
